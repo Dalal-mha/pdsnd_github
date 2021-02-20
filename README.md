@@ -1,14 +1,13 @@
-### Date created
-Include the date you created this project and README file.
+### Date created.
 
 ### Project Title
-Replace the Project Title
+BikeShare
 
 ### Description
-Describe what your project is about and what it does
+This give us some statsitic for three cities in US
 
 ### Files used
-Include the files used
+chicago,new york,washington csv files
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
