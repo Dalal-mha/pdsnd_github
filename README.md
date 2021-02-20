@@ -4,7 +4,7 @@
 BikeShare
 
 ### Description
-This give us some statsitic for three cities in US
+This give us some statistic for three cities in US: New york,washington,chicago
 
 ### Files used
 chicago,new york,washington csv files
