@@ -174,13 +174,13 @@ def user_stats(df, city):
 def display_raw(df):
     # request user to display numbers of row  data
     print(df.head())
-    nextRow = 0
+    next_row = 0
     while True:
         view_row = input("\nWould you like to view next five row of raw data? Enter yes or no.\n")
         if view_row.lower() != "yes":
             return
-            nextRow = nextRow + 5
-        print(df.iloc[nextRow:nextRow + 5])
+            next_row = next_row + 5
+        print(df.iloc[next_row:next_row + 5])
 
 
 def main():
